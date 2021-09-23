@@ -8,7 +8,7 @@
     "fontSize": 20
   },
   "data": {
-    "url": "https://raw.githubusercontent.com/Justinkhor/DataVisualization2/master/data/world.topojson",
+    "url": "https://raw.githubusercontent.com/ckho0019/FIT3179Week9/main/data/world.topojson",
     "format": {
           "type": "topojson",
           "feature": "ne_110m_admin_0_countries"
@@ -18,7 +18,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/Justinkhor/DataVisualization2/master/data/billionaire_country.csv"
+          "url": "https://raw.githubusercontent.com/ckho0019/FIT3179Week9/main/data/billionaire_country.csv"
         },
         "key": "Country",
         "fields": ["Count"]
